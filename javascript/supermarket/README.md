@@ -10,7 +10,7 @@ Download this folder or clone the repo **without creating a fork**. Solve the st
 ## Setup
 This repo has been bootstrapped using [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. Please have a look at the [documentation](https://docs.nestjs.com/) and make yourself familiar with the framework.
 
-Run `npm install`, then run `npm run start:dev` to start the application,  `npm test:watch` to run the tests and `npm run test:e2e` to run e2e tests.
+Run `npm install`, then run `npm run start:dev` to start the application, `npm run test:watch` to run the tests and `npm run test:e2e` to run e2e tests.
 
 ## What's in the app?
 In our supermarket we have defined [the following items](http://localhost:3000/products):
